@@ -1,0 +1,42 @@
+body {
+    font-family: "Avenir Next";
+}
+
+li {
+    list-style: none;
+}
+
+.header {
+    background-color : rgb(250 251 115 / 0.80);
+    height : 180px;
+}
+
+.header h1 {
+    font-size : 60px;
+    text-align : center;
+}
+
+.header li {
+    display : inline;
+    font-size : 20px;
+    padding : 0px 60px;
+}
+
+.header ul {
+    text-align : center;
+}
+
+.main {
+    background-color : rgb(146 238 90 / 0.80);
+    height : 1400px;
+}
+
+.main h1{
+    font-size : 160px;
+    margin : 0px 60px 60px 60px;
+}
+
+.footer {
+    background-color : rgb(66 162 243 / 0.80);
+    height : 200px;
+}
