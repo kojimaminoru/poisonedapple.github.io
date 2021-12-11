@@ -56,16 +56,3 @@ function Sub_4CS_Japanese(event) {  //国語  Complete!
   return 0;
 }
 
-
-
-
-
-////////////////////////////////
-//
-// メモ
-//　配列平均の取り方
-//  var exam_small_ave = exam_small.reduce(function(a,b){
-//  return a + b;
-//  }) / exam_small.length;
-//
-//
